@@ -1,0 +1,13 @@
+ 1. Assume we have a method processString(String sentence) {...},
+ you need to implement logic for:
+
+ - Print out words which start from "a"
+ - Print out words which end from "j"
+ - Convert all words that start from "L" to upper case and
+   to lower case that contains "T"
+2. Replace in the String all ":" by ";".
+Calculate a quantity of such replacements.
+3. Assume that we have sentence, which contains "(" and ")".
+Print out content that enclosed in brackets.
+4. Assume that we have sentence, print out words that start and end
+from the same letter.

@@ -1,0 +1,15 @@
+Modify Car class by adding to
+Setters Illegal arguments exceptions
+year > 1990 -> IllegalArgumentException
+state == BAD  -> IllegalArgumentException
+manufacturer in ("BMW", "Toyota") -> IllegalAE..
+
+--------------------------------------------
+
+Modify insurance company service  with possibility to
+ throw exceptions:
+  - if Person younger that 18 years old throw Illegal Argument Exception,
+  - if Person had committed a crime throw Business Exception.
+ Generate crime commit randomly!
+ Call service and provide necessary exceptions handlers!
+

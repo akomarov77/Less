@@ -1,0 +1,20 @@
+HashMap
++ Write a Java program to associate the specified value with the specified key in a HashMap.
++Write a Java program to count the number of key-value (size) mappings in a map
++Write a Java program to copy all of the entry from the specified map to another map.
++ Write a Java program to check whether a map contains key-value mappings (empty) or not.Try to use .clear()
++ Write a Java program to test if a map contains a mapping for the specified key.
+Write a Java program to test if a map contains a mapping for the specified value.
+Write a Java program to create a set view of the mappings contained in a map.
+Write a Java program to get a collection view of the values contained in this map.
+TreeMap
+Write a Java program to associate the specified value with the specified key in a Tree Map.
+Write a Java program to copy a Tree Map content to another Tree Map
+Write a Java program to get all keys from the given a Tree Map.
+Write a Java program to delete all elements from a given Tree Map.
+Write a Java program to delete all elements from a given Tree Map.
+Write a Java program to sort keys in Tree Map by using comparator.
+Write a Java program to get a key-value mapping associated with the greatest key and the least key in a map.
+Write a Java program to get a reverse order view of the keys contained in a given map
+Write a Java program to get the greatest key less than or equal to the given key.
+Write a Java program to get the portion of a map whose keys are strictly less than a given key.
