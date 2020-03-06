@@ -54,7 +54,7 @@ public class Lesson18 {
         Constructor<?>[] truckClassConstructors = Truck.class.getConstructors();
         System.out.println(".getConstructors(): " + truckClassConstructors.length);
         System.out.println(".getDeclaredConstructors(): " + Truck.class.getDeclaredConstructors().length);
-
+//tests
         Object secretObject = new Employee(99, "Joe");
 
         Class<?> secretObjectClass = secretObject.getClass();
